@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Desert Giants: Solid-Less Planets',
+    Svg: require('@site/static/img/cosmonaut.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        You wouldn't be able to walk on Jupiter, Saturn, Uranus or Neptune because they don't have a solid surface.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'About the size of the sun',
+    Svg: require('@site/static/img/sun.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        98% of the mass of all objects in the Solar System is the mass of the Sun.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'There is silence in space',
+    Svg: require('@site/static/img/sound.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        There is silence in space, because there is no medium for the propagation of sound. For those who like to keep silent, the cosmos would surely be to their liking.
       </>
     ),
   },
