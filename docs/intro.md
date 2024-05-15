@@ -2,46 +2,24 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# Unknown facts about the Earth
 
-## Getting Started
 
-Get started by **creating a new site**.
+**The temperature in the Earth's orbit is + 4 °C**
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+1. More than 8,000 pieces of space debris orbit our planet.
 
-### What you'll need
+2. The distance to the nearest star (after the Sun) from us (Proxima Centauri) is 4.24 light years.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+3. Scientists believe that every sixth star has Earth-like planets. This means that there may be about 33 billion habitable planets in our Galaxy alone.
 
-## Generate a new site
+4. People always see the same side of the moon. The Earth's gravitational field slows down the Moon's rotation around its axis, so the planet completes its rotation in the same time. Also, the far side of the Moon is more hilly compared to the visible side.
 
-Generate a new Docusaurus site using the **classic template**.
+5. The International Space Station is the most expensive object in human history. The ISS has been in Earth's orbit since 1998. The price of creating and maintaining the station in a working condition, according to approximate estimates of experts, is already approaching or has even exceeded 150 billion dollars.
 
-The classic template will automatically be added to your project after you run the command:
+6. The largest meteorite that fell to Earth is the 2.7-meter Hoba. It was discovered in Namibia. The meteorite weighed 60 tons and was 86% iron, making it the largest piece of naturally occurring iron on the planet.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+7. If the Earth revolved around the Sun in the opposite direction, the year would be two days shorter.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+8. We will remind you that the Moon itself does not shine. The glow that we observe at night is the light of the Sun reflected by the Earth's satellite.
